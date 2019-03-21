@@ -21,6 +21,7 @@ http://www.mulesoft.org/schema/mule/json http://www.mulesoft.org/schema/mule/jso
 		url="jdbc:derby:memory:muleEmbeddedDB;create=true" doc:name="Derby Configuration" />
 	<jms:activemq-connector name="Active_MQ"
 		brokerURL="vm://localhost" validateConnections="true" doc:name="Active MQ" />
+		
 	<flow name="mavenFlow">
 		<http:listener config-ref="HTTP_Listener_Configuration"
 			path="/orders" doc:name="HTTP" />
