@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 20 21:30:20 ART 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0169-9da7-e7c3-00000bd487f8 
+on database directory memory:/Users/christiananceri/Documents/GitHub/maven-project/muleEmbeddedDB with class loader org.mule.module.launcher.MuleApplicationClassLoader[maven-project]@18ac53e8 
+Loaded from file:/Users/christiananceri/Documents/GitHub/.mule/apps/maven-project/lib/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/Users/christiananceri/Documents/GitHub/maven-project
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
