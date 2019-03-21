@@ -186,9 +186,9 @@
 			<layout>default</layout>
 		</repository>
 		<repository>
-			<id>mulesoft-releases-nexus</id>
+			<id>MuleEERepository</id>
 			<name>MuleSoft Releases Nexus Repository</name>
-			<url>https://repository.mulesoft.org/nexus/content/repositories/releases-ee/</url>
+			<url>https://repository.mulesoft.org/nexus/content/repositories/releases/</url>
 			<layout>default</layout>
 		</repository>
 	</repositories>
